@@ -1,6 +1,8 @@
 # MetastaticCancerECMRemodeling
 PDE-based model of ECM remodeling and its impact on metastatic cancer migration
 
+[![DOI](https://zenodo.org/badge/125926100.svg)](https://zenodo.org/badge/latestdoi/125926100)
+
 ## Overview
 This mathematical model describse the dynamic process of extracellular matrix remodeling in the vicinity of a primary tumor at the onset 
 of metastasis. The biological network under investigation consists of cancer cells, two populations of collagen fibers,
