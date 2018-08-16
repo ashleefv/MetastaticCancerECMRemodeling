@@ -16,8 +16,7 @@ Oklahoma State University.
 Corresponding author: A. N. Ford Versypt, ashleefv@okstate.edu
 
 ### Related publication for model details
-Yen T. Nguyen Edalgo, Ashlee N. Ford Versypt, Mathematical Modeling of Metastatic Cancer Migration through a Remodeling Extracellular Matrix,
-Submitted to Processes, 2018.
+Yen T. Nguyen Edalgo and Ashlee N. Ford Versypt, Mathematical Modeling of Metastatic Cancer Migration through a Remodeling Extracellular Matrix, Processes, 6, 58, 2018. https://doi.org/10.3390/pr6050058
 
 ### Scripts
 
