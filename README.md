@@ -8,7 +8,7 @@ This mathematical model describes the dynamic process of extracellular matrix re
 of metastasis. The biological network under investigation consists of cancer cells, two populations of collagen fibers,
 and two enzymes that react to remodel the microenvironment, impacting cancer cell migration away from the primary tumor.
 
-## TB Granuloma Activation Mathematical Model
+## Mathematical Model for Metastatic Cancer Migration through a Remodeling Extracellular Matrix
 ### Code Authors
 Yen T. Nguyen Edalgo, Ashlee N. Ford Versypt, 
 School of Chemical Engineering,
